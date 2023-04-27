@@ -2,7 +2,7 @@
 reflect/
 
 # 実験用のsqlファイルもかさばるから入れない
-*.sql
+# *.sql
 
 # KIfUのwarファイルは無視してもいい
-*.war
+# *.war
